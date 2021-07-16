@@ -125,3 +125,10 @@ font-weight: bold;
 text-shadow: 10px;
 text-shadow: 4px 2px 3px #f16161;
 }
+
+.contact{
+    text-align: center;
+    padding-top: 30px;
+    font-weight: bold;
+    font-size: 40px;
+}
